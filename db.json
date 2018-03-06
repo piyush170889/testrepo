@@ -5,5 +5,5 @@
       "title": "hello"
     }
   ],
-  "profile": "typicode"
+  "profile": {"name":"typicode"}
 }
